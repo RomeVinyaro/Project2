@@ -1,4 +1,4 @@
-const sequelize = require('../config/connection');
+const sequelize = require('../config/connections');
 //Example of how to require seed data:
 //const seedGallery = require('./galleryData');
 
